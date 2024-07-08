@@ -1,6 +1,6 @@
-# Harish Raja Selvan PortFolio,
+# Harish Raja Selvan PortFolio
 
-# AUTHOR = HARISH RAJA SELVAN
+# AUTHOR - HARISH RAJA SELVAN
 
 It is my simple <a href="https://harish-gits.github.io/">Portfolio</a> which contains my projects, works, etc...
 
