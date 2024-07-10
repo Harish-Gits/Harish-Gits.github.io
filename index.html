@@ -124,28 +124,13 @@
     <div class="container">
         <header>
             <h2>My Resume</h2>
-            <p>Click the buttons below to view or download my resume.</p>
+            <p>Click the button below to view my resume.</p>
         </header>
         <div class="actions special">
-            <button onclick="toggleResume()" class="button">View Resume</button>
             <a href="images/HarishRS-Resume2.pdf" class="button" target="_blank">Download Resume</a>
-        </div>
-        <div id="resume-container" style="display: none; width: 60%; height: 400px; margin: auto; border: 1px solid #ccc; overflow: hidden;">
-            <iframe id="resume-frame" src="images/HarishRS-Resume2.pdf" style="width: 100%; height: 100%; border: none;"></iframe>
         </div>
     </div>
 </article>
-
-<script>
-    function toggleResume() {
-        var resumeContainer = document.getElementById('resume-container');
-        if (resumeContainer.style.display === 'none') {
-            resumeContainer.style.display = 'block';
-        } else {
-            resumeContainer.style.display = 'none';
-        }
-    }
-</script>
 
 
 
