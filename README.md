@@ -1,4 +1,4 @@
-# Harish Raja Selvan PortFolio
+# Harish Raja Selvan Portfolio
 
 # AUTHOR - HARISH RAJA SELVAN
 
